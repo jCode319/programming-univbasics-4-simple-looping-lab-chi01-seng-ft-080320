@@ -21,5 +21,5 @@ end
 
 def return_string_array(array)
   array = ["string"]
-  puts array
+  puts string
 end
