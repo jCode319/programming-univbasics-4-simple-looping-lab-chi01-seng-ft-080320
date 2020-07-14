@@ -20,6 +20,6 @@ def output_array(array)
 end
 
 def return_string_array(array)
-  array = ["string"]
-  puts "string"
+  array = [string]
+  puts string
 end
