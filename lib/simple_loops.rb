@@ -23,4 +23,3 @@ def return_string_array(array)
   array = array
   puts array
 end
-  
